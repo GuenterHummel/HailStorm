@@ -1,4 +1,4 @@
-regex~=2022.3.2
-numpy~=1.22.2
-scipy~=1.8.0
-pandas~=1.4.1
+regex==2023.3.23
+numpy==1.24.2
+scipy==1.10.1
+pandas==2.0.0
