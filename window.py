@@ -17,11 +17,13 @@ fenster.minsize(500, 300)
 change_button = Button(fenster, text="Ändern", command=button_action)
 exit_button = Button(fenster, text="Beenden", command=fenster.quit)
 
-instruction_label = Label(fenster, text="Ich bin eine Anweisung:\n\
-Klicke auf 'Ändern'.")
+instruction_label = Label(fenster,
+                          text="Ich bin eine Anweisung:\n\
+                          Klicke auf 'Ändern'.")
 
-info_label = Label(fenster, text="Ich bin eine Info:\n\
-Der Beenden Button schliesst das Programm.")
+info_label = Label(fenster,
+                   text="Ich bin eine Info:\n\
+                   Der Beenden Button schliesst das Programm.")
 
 # Nun fügen wir die Komponenten unserem Fenster
 # in der gewünschten Reihenfolge hinzu.
