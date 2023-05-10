@@ -14,19 +14,21 @@ while seq_int > 1:
 
     # collatz calculation
     if seq_int % 2 == 0:
+
         seq_int = int(seq_int / 2)
-
     elif seq_int % 2:
-        seq_int = seq_int * 3 + 1
 
+        seq_int = seq_int * 3 + 1
     else:
+
         print("something wrong if we get here")
 
     # avoid trailing comma when we hit 1
     if seq_int == 1:
-        print('{0:7d} '.format(seq_int))
 
+        print('{0:7d} '.format(seq_int))
     else:
+
         print('{0:7d}, '.format(seq_int), end='')
 
     count += 1
@@ -34,6 +36,7 @@ while seq_int > 1:
         print()
 
 else:
+
     print(count, "elements in sequence starting at", start_int)
-    
+
 print('The end')

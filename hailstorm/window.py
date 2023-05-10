@@ -1,5 +1,6 @@
 from tkinter import *
 
+
 # Die folgende Funktion soll ausgeführt werden, wenn
 # der Benutzer den Button anklickt
 def button_action():
@@ -10,7 +11,7 @@ def button_action():
 fenster = Tk()
 # Den Fenstertitle erstellen
 fenster.title("Ich mache nun was.")
-fenster.minsize(500,300)
+fenster.minsize(500, 300)
 
 # Label und Buttons erstellen.
 change_button = Button(fenster, text="Ändern", command=button_action)
