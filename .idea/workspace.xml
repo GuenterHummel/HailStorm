@@ -24,6 +24,9 @@
   <component name="ChangeListManager">
     <list default="true" id="461f3b08-1348-421f-9bf3-a4f43c6f4cb9" name="Default" comment="update of settings">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hailstorm.py" beforeDir="false" afterPath="$PROJECT_DIR$/hailstorm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/numpytest.py" beforeDir="false" afterPath="$PROJECT_DIR$/numpytest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/window.py" beforeDir="false" afterPath="$PROJECT_DIR$/window.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +74,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/gh/Projects/Python/HailStorm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -295,7 +298,7 @@
       <workItem from="1645653630510" duration="292000" />
       <workItem from="1645653973974" duration="3000" />
       <workItem from="1680129438777" duration="250000" />
-      <workItem from="1683741682626" duration="126000" />
+      <workItem from="1683741682626" duration="343000" />
     </task>
     <task id="LOCAL-00001" summary="Moved to GitHub">
       <created>1554380991233</created>
@@ -360,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680129679813</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update of settings">
+      <created>1683741860143</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683741860143</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
