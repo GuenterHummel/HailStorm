@@ -22,10 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="461f3b08-1348-421f-9bf3-a4f43c6f4cb9" name="Default" comment="update of workspace">
-      <change afterPath="$PROJECT_DIR$/frenchdeck.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/hailstorm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hailstorm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="461f3b08-1348-421f-9bf3-a4f43c6f4cb9" name="Default" comment="update of workspace, added frenchdeck">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +83,13 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mongo",
+      "54f05029-0dce-4946-a075-b0f1ff191105",
+      "cassandra"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -328,7 +332,8 @@
       <workItem from="1684224964822" duration="46000" />
       <workItem from="1695948777642" duration="504000" />
       <workItem from="1701904999543" duration="264000" />
-      <workItem from="1701905275560" duration="1239000" />
+      <workItem from="1701905275560" duration="1876000" />
+      <workItem from="1701909996428" duration="2599000" />
     </task>
     <task id="LOCAL-00001" summary="Moved to GitHub">
       <created>1554380991233</created>
@@ -428,7 +433,15 @@
       <option name="project" value="LOCAL" />
       <updated>1683837584025</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="update of workspace, added frenchdeck">
+      <option name="closed" value="true" />
+      <created>1701909508424</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1701909508424</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -460,7 +473,8 @@
     <MESSAGE value="update of settings" />
     <MESSAGE value="update of settings and fixed formatting" />
     <MESSAGE value="update of workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="update of workspace" />
+    <MESSAGE value="update of workspace, added frenchdeck" />
+    <option name="LAST_COMMIT_MESSAGE" value="update of workspace, added frenchdeck" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/hailstorm$numpytest.coverage" NAME="numpytest Coverage Results" MODIFIED="1630451250222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
