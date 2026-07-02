@@ -6,20 +6,39 @@ import random
 from typing import Dict, Tuple
 
 def generate_salt() -> str:
-    base = random.randint(0, 2 ** 32)
+    #base = random.randint(0, 2 ** 32)
+    base = 567518
     # create a sha256 hash of the base
-    return hashlib.sha256(str(base).encode()).hexdigest()
+    hashed_base = hashlib.sha256(str(base).encode()).hexdigest()
+    print("hashed_base =", hashed_base)
+    return hashed_base
 
 def generate_password_hash(username: str, password: str, public_key: str) -> str:
+    combined_encoded = f"{username}{public_key}{password}".encode()
+    print("combined_encoded =", combined_encoded)
+
     salted_hash = hashlib.sha256(f"{username}{public_key}{password}".encode()).digest()
+    print("salted_hash =", salted_hash)
+
+    salted_hash_hex  = hashlib.sha256(f"{username}{public_key}{password}".encode()).hexdigest()
+    print("salted_hash_hex =", salted_hash_hex)
+
     # convert the salted hash to base64
-    return base64.b64encode(salted_hash).decode()
+    password_hash = base64.b64encode(salted_hash).decode()
+    print("password_hash =", password_hash)
+    return password_hash
 
 
 def generate_password_token(salt: str, password_hash: str) -> Tuple[str, str]:
     # create a sha256 hash of the salt and password hash
-    pwd_hash = hashlib.sha256(f"{salt}{password_hash}".encode()).hexdigest()
-    return salt, pwd_hash
+    print("salt =", salt)
+    print("password_hash =", password_hash)
+    print("combined_input =", f"{salt}{password_hash}".encode())
+
+    password_token = hashlib.sha256(f"{salt}{password_hash}".encode()).hexdigest()
+    print("password_token =", password_token)
+
+    return salt, password_token
 
 
 def generate_auth_token(password_token: Tuple[str, str], local_timestamp) -> str:
