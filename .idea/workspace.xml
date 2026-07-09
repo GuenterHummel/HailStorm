@@ -22,11 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="461f3b08-1348-421f-9bf3-a4f43c6f4cb9" name="Default" comment="added new venv">
-      <change beforePath="$PROJECT_DIR$/.idea/hailstorm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hailstorm.iml" afterDir="false" />
+    <list default="true" id="461f3b08-1348-421f-9bf3-a4f43c6f4cb9" name="Default" comment="updated libs">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +146,7 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.33470792",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -540,7 +538,8 @@
       <workItem from="1744188303352" duration="13000" />
       <workItem from="1782994960893" duration="31000" />
       <workItem from="1782995008577" duration="700000" />
-      <workItem from="1782995869720" duration="3033000" />
+      <workItem from="1782995869720" duration="3417000" />
+      <workItem from="1783434216853" duration="212000" />
     </task>
     <task id="LOCAL-00001" summary="Moved to GitHub">
       <created>1554380991233</created>
@@ -712,7 +711,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702990427429</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="updated libs">
+      <option name="closed" value="true" />
+      <created>1782999596434</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1782999596434</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -755,7 +762,8 @@
     <MESSAGE value="Update of dependencies" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="added new venv" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new venv" />
+    <MESSAGE value="updated libs" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated libs" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
