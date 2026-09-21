@@ -23,11 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="461f3b08-1348-421f-9bf3-a4f43c6f4cb9" name="Default" comment="finished new bagles game">
-      <change beforePath="$PROJECT_DIR$/.idea/hailstorm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Hailstorm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hailstorm/bagles.py" beforeDir="false" afterPath="$PROJECT_DIR$/hailstorm/bagles.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -754,7 +750,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783609286329</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="finished new bagles game">
+      <option name="closed" value="true" />
+      <created>1790002720661</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1790002720661</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
