@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hailstorm.iml" filepath="$PROJECT_DIR$/.idea/Hailstorm.iml" />
       <module fileurl="file://$PROJECT_DIR$/../LearningML/.idea/LearningML.iml" filepath="$PROJECT_DIR$/../LearningML/.idea/LearningML.iml" />
       <module fileurl="file://$PROJECT_DIR$/../PythonOrderService/.idea/PythonOrderService.iml" filepath="$PROJECT_DIR$/../PythonOrderService/.idea/PythonOrderService.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/hailstorm.iml" filepath="$PROJECT_DIR$/.idea/hailstorm.iml" />
     </modules>
   </component>
 </project>

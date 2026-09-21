@@ -23,7 +23,9 @@ When I say:     That means:
   Bagels        No digit is correct.
   
 For example, if the secret number was 248 and your guess was 843, the 
-clues would be Fermi Pico.'''.format(NUM_DIGITS))
+clues would be Fermi Pico.
+
+You have {} guesses to win'''.format(NUM_DIGITS, MAX_GUESSES))
 
     while True: #Main game loop.
         # This stores the secret number the player needs to guess:
