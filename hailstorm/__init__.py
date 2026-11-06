@@ -1,4 +1,3 @@
-def main():
-    """Entry point for the application script"""
-    print("Call your main application code here")
+from hailstorm.hailstorm import collatz, main
 
+__all__ = ["collatz", "main"]
