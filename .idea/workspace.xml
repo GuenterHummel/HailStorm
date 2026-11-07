@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="461f3b08-1348-421f-9bf3-a4f43c6f4cb9" name="Default" comment="Modernized Hailstorm project" />
+    <list default="true" id="461f3b08-1348-421f-9bf3-a4f43c6f4cb9" name="Default" comment="Modernized Hailstorm project">
+      <change beforePath="$PROJECT_DIR$/my_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/hailstorm/my_sum.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,61 +92,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000001794446485" />
-      <entry key="MS500" value="1.0507752215690527" />
-      <entry key="S2" value="1.9743643017246648" />
-      <entry key="S5" value="3.5156713155521504" />
-      <entry key="S10" value="4.771873603010006" />
-      <entry key="S30" value="6.108332845574979" />
-      <entry key="S60" value="6.794693558856051" />
-      <entry key="M2" value="10.204148940790198" />
-      <entry key="M5" value="37.36151301578856" />
-      <entry key="M10" value="85.24035231491118" />
-      <entry key="M15" value="119.28254162391252" />
-      <entry key="M30" value="174.16524806817014" />
-      <entry key="H1" value="214.70558879178233" />
-      <entry key="H2" value="239.8027406679227" />
-      <entry key="H4" value="253.83923317129737" />
-      <entry key="D1" value="266.3904580164126" />
-      <entry key="W1" value="268.62511747743923" />
+      <entry key="MS100" value="1.0140173837740007" />
+      <entry key="MS500" value="1.9100146584336195" />
+      <entry key="S2" value="4.953314504244245" />
+      <entry key="S5" value="6.939037906441563" />
+      <entry key="S10" value="7.874351647227544" />
+      <entry key="S30" value="8.601113444057297" />
+      <entry key="S60" value="8.807532349257336" />
+      <entry key="M2" value="9.291677284630122" />
+      <entry key="M5" value="19.121687907559743" />
+      <entry key="M10" value="53.43622564992178" />
+      <entry key="M15" value="86.27309877925494" />
+      <entry key="M30" value="149.18595188342502" />
+      <entry key="H1" value="201.62725438208201" />
+      <entry key="H2" value="236.13911103832757" />
+      <entry key="H4" value="256.0459672148653" />
+      <entry key="D1" value="274.1888044224764" />
+      <entry key="W1" value="277.451677302138" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="2.601E-320" />
-      <entry key="S5" value="1.8780388563023799E-128" />
-      <entry key="S10" value="1.942556522766301E-64" />
-      <entry key="S30" value="1.212104089229735E-21" />
-      <entry key="S60" value="6.733669169817526E-11" />
-      <entry key="M2" value="1.626626982105651E-5" />
-      <entry key="M5" value="0.027848737396113224" />
-      <entry key="M10" value="0.3336370569683348" />
-      <entry key="M15" value="0.7635443385940092" />
-      <entry key="M30" value="1.7475495143399256" />
-      <entry key="H1" value="2.6438714189943617" />
-      <entry key="H2" value="3.2519889250836385" />
-      <entry key="H4" value="3.6066520741779233" />
-      <entry key="D1" value="3.9315819206066096" />
-      <entry key="W1" value="3.9901535635246073" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="2.2326887401217307E-162" />
+      <entry key="S10" value="2.1180463938436427E-81" />
+      <entry key="S30" value="2.6877808242237593E-27" />
+      <entry key="S60" value="1.0027178421449223E-13" />
+      <entry key="M2" value="6.276990273521148E-7" />
+      <entry key="M5" value="0.007575144181981152" />
+      <entry key="M10" value="0.17400710368985592" />
+      <entry key="M15" value="0.4947237112623469" />
+      <entry key="M30" value="1.4066748474055089" />
+      <entry key="H1" value="2.372042391340629" />
+      <entry key="H2" value="3.080279432151548" />
+      <entry key="H4" value="3.5101427441800266" />
+      <entry key="D1" value="3.913849162045867" />
+      <entry key="W1" value="3.9875775889606935" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9201878192171704" />
-      <entry key="MS500" value="1.033640137761296" />
-      <entry key="S2" value="1.9670904259997308" />
-      <entry key="S5" value="3.5107987792665916" />
-      <entry key="S10" value="4.768641301626342" />
-      <entry key="S30" value="6.1069578698271" />
-      <entry key="S60" value="6.793555237575947" />
-      <entry key="M2" value="10.202117674457988" />
-      <entry key="M5" value="37.38558556403053" />
-      <entry key="M10" value="85.56776462447867" />
-      <entry key="M15" value="120.03867605865632" />
-      <entry key="M30" value="175.90560070090027" />
-      <entry key="H1" value="217.34431311037085" />
-      <entry key="H2" value="243.0516349765354" />
-      <entry key="H4" value="257.444186432649" />
-      <entry key="D1" value="270.3217337002001" />
-      <entry key="W1" value="272.61522669833465" />
+      <entry key="MS100" value="0.9862955677726893" />
+      <entry key="MS500" value="1.899661779495649" />
+      <entry key="S2" value="4.944718042036262" />
+      <entry key="S5" value="6.933583258751549" />
+      <entry key="S10" value="7.871111867617735" />
+      <entry key="S30" value="8.599896341936127" />
+      <entry key="S60" value="8.806903275263645" />
+      <entry key="M2" value="9.291280367525426" />
+      <entry key="M5" value="19.12810729610821" />
+      <entry key="M10" value="53.60692176613548" />
+      <entry key="M15" value="86.76297834668297" />
+      <entry key="M30" value="150.58681212086003" />
+      <entry key="H1" value="203.9946680941987" />
+      <entry key="H2" value="239.2164538642581" />
+      <entry key="H4" value="259.5544539090198" />
+      <entry key="D1" value="278.102348279682" />
+      <entry key="W1" value="281.43921051291636" />
     </decayedShown>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -189,46 +191,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;Python.cirq_example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hailstorm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.my_sum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.numpytest.executor&quot;: &quot;Run&quot;,
-    &quot;Python.spam.executor&quot;: &quot;Run&quot;,
-    &quot;Python.string.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Projekte/GH/python/HailStorm&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.33470792&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.cirq_example.executor": "Run",
+    "Python.hailstorm.executor": "Run",
+    "Python.hello.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.my_sum.executor": "Run",
+    "Python.numpytest.executor": "Run",
+    "Python.spam.executor": "Run",
+    "Python.string.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "ignore_missing_gitignore": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Projekte/GH/python/HailStorm",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.33470792",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projekte\GH\python\PythonOrderService" />
@@ -615,7 +619,7 @@
       <workItem from="1746827813039" duration="731000" />
       <workItem from="1794004534874" duration="439000" />
       <workItem from="1794005002115" duration="2809000" />
-      <workItem from="1794008319435" duration="789000" />
+      <workItem from="1794008319435" duration="1159000" />
     </task>
     <task id="LOCAL-00001" summary="Moved to GitHub">
       <created>1554380991233</created>
@@ -843,7 +847,15 @@
       <option name="project" value="LOCAL" />
       <updated>1794008558384</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Modernized Hailstorm project">
+      <option name="closed" value="true" />
+      <created>1794009235480</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1794009235480</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
