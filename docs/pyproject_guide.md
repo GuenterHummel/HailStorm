@@ -19,23 +19,23 @@ Mit **PEP 517** und **PEP 621** wurde ein einheitlicher, deklarativer Standard g
 
 ```toml
 [build-system]
-requires = ["setuptools>=61.0"]
-build-backend = "setuptools.build_meta"
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
 
 [project]
 name = "hailstorm"
 version = "0.1.0"
 description = "Learning Python stuff"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.14"
 
-# Produktions-Abhängigkeiten (früher requirements.txt)
+# Produktions-Abhängigkeiten
 dependencies = [
-    "cirq~=1.5.0",
-    "numpy>=2.2.5",
-    "pandas>=2.2.3",
-    "regex>=2024.11.6",
-    "scipy>=1.15.3",
+    "cirq~=1.7.0",
+    "numpy>=2.5.4",
+    "pandas>=2.3.3",
+    "regex>=2026.11.7",
+    "scipy>=1.18.1",
 ]
 
 # Optionale Entwicklungs-Abhängigkeiten
@@ -48,17 +48,22 @@ dev = [
 [project.scripts]
 hailstorm = "hailstorm:main"
 
-# Automatische Paketerkennung für Python-Module
-[tool.setuptools.packages.find]
-where = ["."]
-include = ["hailstorm*"]
-exclude = ["test*"]
-
 # Test-Runner Konfiguration
 [tool.pytest.ini_options]
 testpaths = ["test"]
 python_files = ["test_*.py", "*_test.py"]
 ```
+
+---
+
+## 2.1 Historie: Vom alten `setup.py` / `.egg-info` zu PEP 376 (`*.dist-info`)
+
+| Generation | Standard / Format | Metadaten-Speicherort | Nachteile / Eigenschaften |
+|---|---|---|---|
+| **Klassisch (Legacy)** | `setup.py` / Setuptools | `<pkg>.egg-info/` | Musste Python-Code ausführen, generierte `.egg-info` im Projektordner, kein einheitlicher Standard. |
+| **Modern** | **PEP 376** & **PEP 517/621** | `*.dist-info/` (`METADATA`, `RECORD`, `INSTALLER`) | Rein deklarativ über `pyproject.toml`, standardisiertes Wheel-Format (PEP 427), saubere Deinstallation und Paket-Datenbank. |
+
+Moderne Backends wie **`flit_core`** oder **`hatchling`** verzichten vollständig auf temporäre `.egg-info`-Verzeichnisse im Quellcode und erzeugen direkt das standardkonforme **PEP 376 `*.dist-info`**-Format im Virtual Environment (`site-packages`) sowie im Wheel-Archiv (`dist/`).
 
 ---
 

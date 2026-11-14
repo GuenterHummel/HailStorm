@@ -22,8 +22,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="461f3b08-1348-421f-9bf3-a4f43c6f4cb9" name="Default" comment="Modernized Hailstorm project">
-      <change beforePath="$PROJECT_DIR$/my_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/hailstorm/my_sum.py" afterDir="false" />
+    <list default="true" id="461f3b08-1348-421f-9bf3-a4f43c6f4cb9" name="Default" comment="Modernized Hailstorm project part 2">
+      <change beforePath="$PROJECT_DIR$/.idea/Hailstorm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Hailstorm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/pyproject_guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/pyproject_guide.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,61 +97,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0140173837740007" />
-      <entry key="MS500" value="1.9100146584336195" />
-      <entry key="S2" value="4.953314504244245" />
-      <entry key="S5" value="6.939037906441563" />
-      <entry key="S10" value="7.874351647227544" />
-      <entry key="S30" value="8.601113444057297" />
-      <entry key="S60" value="8.807532349257336" />
-      <entry key="M2" value="9.291677284630122" />
-      <entry key="M5" value="19.121687907559743" />
-      <entry key="M10" value="53.43622564992178" />
-      <entry key="M15" value="86.27309877925494" />
-      <entry key="M30" value="149.18595188342502" />
-      <entry key="H1" value="201.62725438208201" />
-      <entry key="H2" value="236.13911103832757" />
-      <entry key="H4" value="256.0459672148653" />
-      <entry key="D1" value="274.1888044224764" />
-      <entry key="W1" value="277.451677302138" />
+      <entry key="MS100" value="1.0438889448384887" />
+      <entry key="MS500" value="2.029596087327885" />
+      <entry key="S2" value="4.814746757253623" />
+      <entry key="S5" value="8.683218745203504" />
+      <entry key="S10" value="13.712846437986755" />
+      <entry key="S30" value="23.323356041704326" />
+      <entry key="S60" value="28.507478056505104" />
+      <entry key="M2" value="33.104880697969996" />
+      <entry key="M5" value="45.9022283369962" />
+      <entry key="M10" value="76.01923033664818" />
+      <entry key="M15" value="108.45921213496997" />
+      <entry key="M30" value="185.15436183633025" />
+      <entry key="H1" value="262.878151189719" />
+      <entry key="H2" value="320.2612589032024" />
+      <entry key="H4" value="355.4662753966787" />
+      <entry key="D1" value="388.83759685136266" />
+      <entry key="W1" value="394.9663173186399" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
-      <entry key="S5" value="2.2326887401217307E-162" />
-      <entry key="S10" value="2.1180463938436427E-81" />
-      <entry key="S30" value="2.6877808242237593E-27" />
-      <entry key="S60" value="1.0027178421449223E-13" />
-      <entry key="M2" value="6.276990273521148E-7" />
-      <entry key="M5" value="0.007575144181981152" />
-      <entry key="M10" value="0.17400710368985592" />
-      <entry key="M15" value="0.4947237112623469" />
-      <entry key="M30" value="1.4066748474055089" />
-      <entry key="H1" value="2.372042391340629" />
-      <entry key="H2" value="3.080279432151548" />
-      <entry key="H4" value="3.5101427441800266" />
-      <entry key="D1" value="3.913849162045867" />
-      <entry key="W1" value="3.9875775889606935" />
+      <entry key="S5" value="2.9517882979809044E-237" />
+      <entry key="S10" value="7.701298927865502E-119" />
+      <entry key="S30" value="8.904373228873844E-40" />
+      <entry key="S60" value="5.771430826631995E-20" />
+      <entry key="M2" value="4.762158343023807E-10" />
+      <entry key="M5" value="4.2796854854108374E-4" />
+      <entry key="M10" value="0.04135970700706224" />
+      <entry key="M15" value="0.18983212501053626" />
+      <entry key="M30" value="0.871359185474519" />
+      <entry key="H1" value="1.8669134820755762" />
+      <entry key="H2" value="2.732693909710723" />
+      <entry key="H4" value="3.306170255759609" />
+      <entry key="D1" value="3.8749921187743617" />
+      <entry key="W1" value="3.981897801033159" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9862955677726893" />
-      <entry key="MS500" value="1.899661779495649" />
-      <entry key="S2" value="4.944718042036262" />
-      <entry key="S5" value="6.933583258751549" />
-      <entry key="S10" value="7.871111867617735" />
-      <entry key="S30" value="8.599896341936127" />
-      <entry key="S60" value="8.806903275263645" />
-      <entry key="M2" value="9.291280367525426" />
-      <entry key="M5" value="19.12810729610821" />
-      <entry key="M10" value="53.60692176613548" />
-      <entry key="M15" value="86.76297834668297" />
-      <entry key="M30" value="150.58681212086003" />
-      <entry key="H1" value="203.9946680941987" />
-      <entry key="H2" value="239.2164538642581" />
-      <entry key="H4" value="259.5544539090198" />
-      <entry key="D1" value="278.102348279682" />
-      <entry key="W1" value="281.43921051291636" />
+      <entry key="MS100" value="1.0147560376111222" />
+      <entry key="MS500" value="2.015608654869831" />
+      <entry key="S2" value="4.805894613275685" />
+      <entry key="S5" value="8.67652224971016" />
+      <entry key="S10" value="13.707253933036473" />
+      <entry key="S30" value="23.31997818692966" />
+      <entry key="S60" value="28.505267092427335" />
+      <entry key="M2" value="33.103368727951604" />
+      <entry key="M5" value="45.90049945941366" />
+      <entry key="M10" value="76.05724475387898" />
+      <entry key="M15" value="108.64479853904771" />
+      <entry key="M30" value="186.02042702307077" />
+      <entry key="H1" value="264.7404102202743" />
+      <entry key="H2" value="322.99079416040024" />
+      <entry key="H4" value="358.77059631393837" />
+      <entry key="D1" value="392.71223658347407" />
+      <entry key="W1" value="398.94816359909623" />
     </decayedShown>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -191,48 +196,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Python.cirq_example.executor": "Run",
-    "Python.hailstorm.executor": "Run",
-    "Python.hello.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.my_sum.executor": "Run",
-    "Python.numpytest.executor": "Run",
-    "Python.spam.executor": "Run",
-    "Python.string.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "copilot.chat.legacySessionMetadata.migrated": "true",
-    "git-widget-placeholder": "main",
-    "go.import.settings.migrated": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "ignore_missing_gitignore": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Projekte/GH/python/HailStorm",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.33470792",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Python.cirq_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hailstorm (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.hailstorm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.my_sum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numpytest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.spam.executor&quot;: &quot;Run&quot;,
+    &quot;Python.string.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;copilot.chat.legacySessionMetadata.migrated&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projekte/GH/python/HailStorm&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.33470792&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.interpreter.PyWorkspaceStructureConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projekte\GH\python\PythonOrderService" />
@@ -242,14 +248,14 @@
       <recent name="D:\Projekte\GH\python\HailStorm\test\in" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projekte\GH\python\Hailstorm\hailstorm" />
       <recent name="D:\Projekte\GH\python\HailStorm\data" />
       <recent name="D:\Projekte\GH\python\HailStorm\hailstorm" />
       <recent name="D:\Projekte\GH\python\HailStorm\cm-trace-converter" />
       <recent name="D:\Projekte\GH\python\HailStorm\cm-trace-converter\cm_trace_converter\tests\resources" />
-      <recent name="D:\Projekte\GH\python\HailStorm\cm-trace-converter\cm_trace_converter" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.my_sum">
+  <component name="RunManager">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
       <setting name="bbPath" value="" />
@@ -307,32 +313,8 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration name="cirq_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Hailstorm" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hailstorm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="RUN_AS_SCRIPT" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hailstorm/cirq_example.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="hailstorm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Hailstorm" />
+      <module name="hailstorm" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -344,82 +326,9 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="RUN_AS_SCRIPT" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hailstorm/hailstorm.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Hailstorm" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hailstorm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="RUN_AS_SCRIPT" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hailstorm/hello.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="my_sum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Hailstorm" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="RUN_AS_SCRIPT" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_sum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="spam" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Hailstorm" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hailstorm" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="RUN_AS_SCRIPT" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hailstorm/spam.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -437,83 +346,9 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test" type="tests" factoryName="py.test" nameIsGenerated="true">
-      <module name="Hailstorm" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="D:\Projekte\GH\python\HailStorm\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="RUN_AS_SCRIPT" value="" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;--tb\u003dno&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_one.py" type="tests" factoryName="py.test" nameIsGenerated="true">
-      <module name="Hailstorm" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="D:\Projekte\GH\python\HailStorm\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="RUN_AS_SCRIPT" value="" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_one.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in test_two.py" type="tests" factoryName="py.test" nameIsGenerated="true">
-      <module name="Hailstorm" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="D:\Projekte\GH\python\HailStorm\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="RUN_AS_SCRIPT" value="" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/test_two.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.my_sum" />
-      <item itemvalue="Python.hello" />
-      <item itemvalue="Python.cirq_example" />
-      <item itemvalue="Python.spam" />
-      <item itemvalue="Python.hailstorm" />
-      <item itemvalue="Python tests.pytest in test" />
-      <item itemvalue="Python tests.pytest in test_one.py" />
-      <item itemvalue="Python tests.pytest in test_two.py" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.my_sum" />
-        <item itemvalue="Python.hello" />
         <item itemvalue="Python.hailstorm" />
-        <item itemvalue="Python.cirq_example" />
-        <item itemvalue="Python.spam" />
       </list>
     </recent_temporary>
   </component>
@@ -619,7 +454,10 @@
       <workItem from="1746827813039" duration="731000" />
       <workItem from="1794004534874" duration="439000" />
       <workItem from="1794005002115" duration="2809000" />
-      <workItem from="1794008319435" duration="1159000" />
+      <workItem from="1794008319435" duration="2047000" />
+      <workItem from="1794010411063" duration="770000" />
+      <workItem from="1794011227733" duration="595000" />
+      <workItem from="1794617630881" duration="1263000" />
     </task>
     <task id="LOCAL-00001" summary="Moved to GitHub">
       <created>1554380991233</created>
@@ -855,7 +693,23 @@
       <option name="project" value="LOCAL" />
       <updated>1794009235480</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Modernized Hailstorm project part 2">
+      <option name="closed" value="true" />
+      <created>1794009494902</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1794009494902</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Modernized Hailstorm project part 2">
+      <option name="closed" value="true" />
+      <created>1794009871249</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1794009871249</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -899,7 +753,8 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="added new venv" />
     <MESSAGE value="Modernized Hailstorm project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modernized Hailstorm project" />
+    <MESSAGE value="Modernized Hailstorm project part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modernized Hailstorm project part 2" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
